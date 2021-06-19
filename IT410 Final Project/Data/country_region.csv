@@ -1,4 +1,4 @@
-﻿Country Code,Region,IncomeGroup,SpecialNotes,TableName
+﻿Country Code,Region,IncomeGroup,SpecialNotes,Country
 ABW,Latin America & Caribbean,High income,,Aruba
 AFG,South Asia,Low income,,Afghanistan
 AGO,Sub-Saharan Africa,Lower middle income,,Angola
@@ -204,7 +204,7 @@ PST,,,Post-dividend countries are mostly high-income countries where fertility h
 PYF,East Asia & Pacific,High income,,French Polynesia
 QAT,Middle East & North Africa,High income,,Qatar
 ROU,Europe & Central Asia,High income,,Romania
-RUS,Europe & Central Asia,Upper middle income,,Russian Federation
+RUS,Europe & Central Asia,Upper middle income,,Russia
 RWA,Sub-Saharan Africa,Low income,,Rwanda
 SAS,,,,South Asia
 SAU,Middle East & North Africa,High income,,Saudi Arabia
